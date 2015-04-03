@@ -1,6 +1,6 @@
 # План по спасению граждан от китайской перспективы развития Интернета в нашей стране
 
-![intro](http://habrastorage.org/files/bb7/d6e/b38/bb7d6eb38c814c3e848859bf8db9373f.png)
+![intro](http://habrastorage.org/files/9ec/dd5/a90/9ecdd5a90e364c7aa1cae7c4fec719b6.png)
 
 ## Шаг первый
 Объединение граждан на одной площадке.
